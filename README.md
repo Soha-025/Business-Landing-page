@@ -1,12 +1,59 @@
-# React + Vite
+# 🚀 Business Landing Page  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **modern and responsive business landing page** built using **React (Vite) + TailwindCSS**.  
+This project was created as part of **Codantix Internship – Task 10**.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features  
+- Responsive design for all screen sizes  
+- Clean UI with TailwindCSS styling  
+- Hero section with call-to-action buttons  
+- Navbar with smooth navigation  
+- Modern grid layout with image + text  
+- Easy to customize for any business  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Folder Structure  
+Codantix-Task-10/
+│-- public/ # Static assets
+│-- src/
+│ │-- components/ # Reusable components (Navbar, Hero, etc.)
+│ │-- App.jsx # Main app entry
+│ │-- main.jsx # React DOM render
+│-- package.json
+│-- vite.config.js
+│-- tailwind.config.js
+│-- README.md
+
+---
+
+## 🛠️ Installation & Setup  
+
+1. Clone the repository  
+```bash
+git clone https://github.com/Soha-025/Codantix-Task-10.git
+cd Codantix-Task-10
+```
+Install dependencies
+```bash
+npm install
+```
+
+Run the project locally
+```bash
+npm run dev
+```
+
+Build for production
+```bash
+npm run build
+```
+## 📸 Preview
+<img width="1878" height="965" alt="Screenshot 2025-08-10 040348" src="" />
+
+---
+
+💡 A clean, simple, and elegant landing page — designed to make businesses stand out.
+
