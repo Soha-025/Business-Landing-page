@@ -52,7 +52,7 @@ Build for production
 npm run build
 ```
 ## 📸 Preview
-<img width="1878" height="965" alt="Screenshot 2025-08-10 040348" src="" />
+<img width="1891" height="949" alt="image" src="https://github.com/user-attachments/assets/ce9a5023-57ef-4e98-b248-70102f7b4134" />
 
 ---
 
