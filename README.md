@@ -16,18 +16,19 @@ This project was created as part of **Codantix Internship – Task 10**.
 ---
 
 ## 📂 Folder Structure  
+```
 Codantix-Task-10/
-│-- public/ # Static assets
-│-- src/
-│ │-- components/ # Reusable components (Navbar, Hero, etc.)
-│ │-- App.jsx # Main app entry
-│ │-- main.jsx # React DOM render
-│-- package.json
-│-- vite.config.js
-│-- tailwind.config.js
-│-- README.md
-
----
+┣ public/
+┃ ┗ images
+┣ src/
+┃ ┣ components/ (Navbar, Hero, Features, About, Contact, Footer)
+┃ ┣ App.jsx
+┃ ┗ main.jsx
+┣ package.json
+┣ tailwind.config.js
+┣ postcss.config.js
+┗ README.md
+```
 
 ## 🛠️ Installation & Setup  
 
